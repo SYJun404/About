@@ -1,7 +1,7 @@
 export const siteConfig = {
     name: 'SYJun',
     title: 'Hand-written code. Human-reviewed. An intangible cultural heritage.',
-    description: 'Portfolio website of Ryan Fitzgerald',
+    description: 'Portfolio website of SYJun',
     accentColor: '#1d4ed8',
     social: {
         email: 'syjun404@foxmail.com',
@@ -72,24 +72,30 @@ export const siteConfig = {
     ],
     education: [
         {
-            school: 'University Name',
-            degree: 'Bachelor of Science in Computer Science',
-            dateRange: '2014 - 2018',
+            school: 'Chongqing College of Electronic Engineering',
+            degree: 'Associate of Applied Science in Software Technology',
+            dateRange: '2019 - 2022',
             achievements: [
-                'Graduated Magna Cum Laude with 3.8 GPA',
-                "Dean's List all semesters",
-                'President of Computer Science Club',
+                'Change major to software technology',
+                'Won some programming competition awards',
+                "Took associate-to-bachelor's degree examination",
             ],
         },
         {
-            school: 'Online Platform',
-            degree: 'Full Stack Development Certificate',
-            dateRange: '2019',
+            school: 'Chongqing College of International Business and Economics',
+            degree: 'Bachelor of Engineering in Computer Science and Technology',
+            dateRange: '2022-2024',
             achievements: [
-                'Completed 500+ hours of coursework',
-                'Built 10+ portfolio projects',
-                'Specialized in React and Node.js',
+                'Devote oneself to learning English',
+                'Passed CET-4 for college students',
+                'Took the postgraduate entrance examination',
             ],
+        },
+        {
+            school: 'Chongqing University of Posts and Telecommunications',
+            degree: 'Master of Engineering in Computer Technology',
+            dateRange: '2026 -',
+            achievements: ['In continuous learning...'],
         },
     ],
 };
